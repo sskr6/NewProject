@@ -1,6 +1,6 @@
 <ul>
 <li>SHIVA</li>
-<li>KUMAR-edited</li>
+<li>KUMAR</li>
 <li>REDDY</li>
 <li>SAMA</li>
 </ul>
