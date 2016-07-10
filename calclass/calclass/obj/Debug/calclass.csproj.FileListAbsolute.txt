@@ -1,0 +1,4 @@
+E:\dot net\Dot net latest\calclass\calclass\bin\Debug\calclass.dll
+E:\dot net\Dot net latest\calclass\calclass\bin\Debug\calclass.pdb
+E:\dot net\Dot net latest\calclass\calclass\obj\Debug\calclass.dll
+E:\dot net\Dot net latest\calclass\calclass\obj\Debug\calclass.pdb
