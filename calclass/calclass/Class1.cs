@@ -20,10 +20,10 @@ namespace calclass
             int c = a - b;
             return c;
         }
-        public int mult(int a, int b)
+        public int mult(int a, int b,int c)
 
         {
-            int c = a * b;
+            int c = a * b *c;
             return c;
         }
     }
