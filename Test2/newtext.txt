@@ -1,5 +1,14 @@
 testing tortoise git
 
 
+<<<<<<< .mine
 changed2
 ghgfhd
+
+
+=======
+changed2 gfdgsd
+
+
+eferyery
+>>>>>>> .theirs
