@@ -11,8 +11,8 @@ namespace basic
         static void Main(string[] args)
         {
             int a, b, c, d, e, f, g,h;
-            a = 10;
-             b = 12;
+            a = 12;
+             b = 14;
              c = ++a;
              d = a + c;
              e = a - b;
